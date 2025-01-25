@@ -56,7 +56,7 @@ function App() {
                 <CardHeader className="flex flex-row items-center justify-between">
                   <CardTitle className="text-2xl font-bold flex items-center gap-2">
                     <Wallet className="w-6 h-6" />
-                    Web-Based Wallet
+                    Web3Pitara
                   </CardTitle>
                   <Button
                     variant="ghost"
